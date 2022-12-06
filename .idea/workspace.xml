@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Commit in Project1 - Calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2IXKSSlam5SiiYX8Cf0adseX2z1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,7 +35,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.Calculator" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorld" />
       <module name="Project1" />
@@ -48,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -61,6 +78,33 @@
       <option name="presentableId" value="Default" />
       <updated>1670322490945</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit in Project1 - HelloWorld">
+      <created>1670322942753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670322942753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit in Project1 - HelloWorld">
+      <created>1670322954952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670322954952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit in Project1 - Calculator">
+      <created>1670323121892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670323121892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit in Project1 - HelloWorld" />
+    <MESSAGE value="Commit in Project1 - Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit in Project1 - Calculator" />
   </component>
 </project>
