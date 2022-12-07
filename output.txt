@@ -1,0 +1,30 @@
+
+Initial text 
+
+inside string package create a java class stringusage with the main method and add the following private methods:
+-convert phrase to uppercase;
+-convert phrase to lowercase;
+-determine phrase length;
+1 2 3 4 5 6 7 8
+
+Number of vowels: 60
+Number of consonats: 104
+Numbers: 8
+Number of words: 32
+Duplicated words: , the, phrase, to
+
+Upper text
+INSIDE STRING PACKAGE CREATE A JAVA CLASS STRINGUSAGE WITH THE MAIN METHOD AND ADD THE FOLLOWING PRIVATE METHODS:
+-CONVERT PHRASE TO UPPERCASE;
+-CONVERT PHRASE TO LOWERCASE;
+-DETERMINE PHRASE LENGTH;
+1 2 3 4 5 6 7 8
+
+Lower text
+inside string package create a java class stringusage with the main method and add the following private methods:
+-convert phrase to uppercase;
+-convert phrase to lowercase;
+-determine phrase length;
+1 2 3 4 5 6 7 8
+
+The length of the text: 219 characters
