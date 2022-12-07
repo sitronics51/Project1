@@ -95,29 +95,31 @@ public class StringUsage {
         }
 
         System.out.println("Initial text\n" + str + "\n");
+        System.out.println("Upper text: \n" + strUpper + "\n");
+        System.out.println("Lower text: \n" + strLower + "\n");
+        System.out.println("The length of the text: " + strLength + " characters");
         System.out.println("Number of vowels: " + vowels);
         System.out.println("Number of consonats: " + consonats);
         System.out.println("Numbers: " + numbers);
         System.out.println("Number of words: " + words);
-        System.out.println("Duplicated words: " + dublicat);
         System.out.println("Largest word: " + large);
-        System.out.println("Smallest word: " + small + "\n");
-        System.out.println("Upper text: \n" + strUpper + "\n");
-        System.out.println("Lower text: \n" + strLower + "\n");
-        System.out.println("The length of the text: " + strLength + " characters");
+        System.out.println("Smallest word: " + small);
+        System.out.println("Duplicated words: " + dublicat);
 
         //Writing to file
             FileWriter writeToFile = new FileWriter("output.txt");
             writeToFile.write("\nInitial text \n");
             writeToFile.write("\n" + str + "\n");
+            writeToFile.write("\nUpper text\n" + strUpper + "\n");
+            writeToFile.write("\nLower text\n"+ strLower + "\n");
+            writeToFile.write("\nThe length of the text: " + strLength + " characters" + "\n");
             writeToFile.write("\nNumber of vowels: " + vowels + "\n");
             writeToFile.write("Number of consonats: " + consonats + "\n");
             writeToFile.write("Numbers: " + numbers + "\n");
             writeToFile.write("Number of words: " + words + "\n");
+            writeToFile.write("Largest word: " + large + "\n");
+            writeToFile.write("Smallest word: " + small + "\n");
             writeToFile.write("Duplicated words: " + dublicat + "\n");
-            writeToFile.write("\nUpper text\n" + strUpper + "\n");
-            writeToFile.write("\nLower text\n"+ strLower + "\n");
-            writeToFile.write("\nThe length of the text: " + strLength + " characters" + "\n");
             writeToFile.close();
             System.out.println("\nAll operations completed successfully");
     }
