@@ -1,0 +1,8 @@
+1 | Dadiah
+2 | Eggnog
+3 | Gelato
+4 | Booza
+5 | Borhani
+6 | Butter
+7 | Camel milk
+8 | Milk

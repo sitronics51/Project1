@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add filles of String package">
+    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;">
+      <change afterPath="$PROJECT_DIR$/product-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionsUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/StringUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/StringUsage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,7 +52,7 @@
       <recent name="C:\Users\User\IdeaProjects\Project1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Product">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators.Calculator" />
       <module name="Project1" />
@@ -79,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Product" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.StringUsage" />
       <module name="Project1" />
@@ -94,10 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Product" />
         <item itemvalue="Application.StringUsage" />
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -152,14 +173,29 @@
       <option name="project" value="LOCAL" />
       <updated>1670428466528</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;">
+      <created>1670429584954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670429584954</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;">
+      <created>1670429594210</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670429594210</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit in Project1 - HelloWorld" />
     <MESSAGE value="Commit in Project1 - Calculator" />
     <MESSAGE value="Add filles of String package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add filles of String package" />
+    <MESSAGE value="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
