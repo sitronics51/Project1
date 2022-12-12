@@ -12,7 +12,7 @@ public class Product {
         BufferedReader reader = new BufferedReader(new FileReader(Paths.get("product-input.txt").toFile()));
         while ((line = reader.readLine()) != null)
         {
-            String[] parts = line.split("[|]");
+            String[] parts = line.split("[ ]");
             if (parts.length >= 2)
             {
                 String key = parts[0];

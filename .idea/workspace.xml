@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;">
-      <change afterPath="$PROJECT_DIR$/product-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-output.txt" afterDir="false" />
+    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;">
+      <change afterPath="$PROJECT_DIR$/employee-final.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-input.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Collection/CollectionsUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +52,13 @@
       <recent name="C:\Users\User\IdeaProjects\Project1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Product">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.Calculator" />
+  <component name="RunManager" selected="Application.CollectionsUsage">
+    <configuration name="CollectionsUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.CollectionsUsage" />
       <module name="Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operators.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsUsage" />
         <item itemvalue="Application.Product" />
         <item itemvalue="Application.StringUsage" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670429594210</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;">
+      <created>1670585326990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670585326990</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;">
+      <created>1670585368712</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670585368712</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,7 +209,8 @@
     <MESSAGE value="Commit in Project1 - Calculator" />
     <MESSAGE value="Add filles of String package" />
     <MESSAGE value="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;" />
+    <MESSAGE value="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -203,6 +218,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.FileNotFoundException" package="java.io" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
