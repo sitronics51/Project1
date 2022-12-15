@@ -1,4 +1,4 @@
-import String.StringUsage;
+import string.StringUsage;
 
 import java.io.IOException;
 
