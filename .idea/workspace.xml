@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;">
-      <change afterPath="$PROJECT_DIR$/employee-final.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionsUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/models/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/models/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/models/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/models/Workers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/service/EmployeeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Project1" />
       <recent name="C:\Users\User\IdeaProjects\Project1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionsUsage">
+  <component name="RunManager" selected="Application.EmployeeService">
     <configuration name="CollectionsUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.CollectionsUsage" />
       <module name="Project1" />
@@ -66,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.HelloWorld" />
+    <configuration name="EmployeeService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.service.EmployeeService" />
       <module name="Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HelloWorld.*" />
+          <option name="PATTERN" value="oop.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeService" />
         <item itemvalue="Application.CollectionsUsage" />
         <item itemvalue="Application.Product" />
         <item itemvalue="Application.StringUsage" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>

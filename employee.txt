@@ -1,0 +1,4 @@
+2001|Agachi Nicu|1|AmSoft|120030.00
+2004|Railean Dan|2|30|10100.00
+2005|Bantas Dima|3|JAVA|12000.00
+2005|Arhip Vasile|2|34|12000.00
