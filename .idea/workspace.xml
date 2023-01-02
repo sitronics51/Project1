@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/models/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/models/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/models/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/models/Workers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/service/EmployeeService.java" afterDir="false" />
+    <list default="true" id="cd0936e2-1598-49b9-8508-bf6f00220111" name="Changes" comment="Add to Project1 package OOP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/models/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/models/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/models/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/models/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/models/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/models/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/models/Workers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/models/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/service/EmployeeService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Project1" />
@@ -205,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670585368712</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add to Project1 package OOP">
+      <created>1671701944339</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671701944339</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,7 +219,8 @@
     <MESSAGE value="Add filles of String package" />
     <MESSAGE value="Add function &quot;Small&quot; and &quot;Large&quot; to &quot;StringUsage&quot;" />
     <MESSAGE value="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add to Collections &quot;Product&quot;, &quot;product-input.txt&quot; and &quot;product-output.txt&quot;" />
+    <MESSAGE value="Add to Project1 package OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add to Project1 package OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

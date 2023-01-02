@@ -1,6 +1,6 @@
 package oop.models;
 
-public class Director extends Workers {
+public class Director extends Worker {
     private String companyName;
 
     public Director(Integer personalCode, String firstLastName, Integer positionCode, Double salary, String companyName) {

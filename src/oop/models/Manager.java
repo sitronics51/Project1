@@ -1,6 +1,6 @@
 package oop.models;
 
-public class Manager extends Workers {
+public class Manager extends Worker {
     private Integer teamMembers;
     public Manager(Integer personalCode, String firstLastName, Integer positionCode, Double salary, Integer teamMembers) {
         super(personalCode, firstLastName, positionCode, salary);

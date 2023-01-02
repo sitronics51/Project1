@@ -1,12 +1,12 @@
 package oop.models;
 
-public class Workers {
+public class Worker {
     private Integer personalCode;
     private String firstLastName;
     private Integer positionCode;
     private Double salary;
 
-    public Workers(Integer personalCode, String firstLastName, Integer positionCode, Double salary) {
+    public Worker(Integer personalCode, String firstLastName, Integer positionCode, Double salary) {
         this.personalCode = personalCode;
         this.firstLastName = firstLastName;
         this.positionCode = positionCode;
